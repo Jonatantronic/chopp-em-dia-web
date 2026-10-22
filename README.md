@@ -1,2 +1,2 @@
-# chopp-em-dia-web
-Acesso pelo navegador ao Chopp em Dia, com autenticação.
+# Chopp em Dia
+Versão web em preparação.
